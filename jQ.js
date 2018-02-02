@@ -1,3 +1,1 @@
-function $(q){
-	return document.querySelector(q);
-}
+const $=q=>document.querySelector(q)
