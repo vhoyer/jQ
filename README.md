@@ -3,7 +3,9 @@ jQ
 
 ![logo](logo.png)
 
-Behold the newest JavaScript framework!! Greatly inspired by jQuery, it is the fastest, lightweightest, slickiest, damn good framework!! See what the users are talking about it:
+Behold the newest JavaScript framework!! Greatly inspired by jQuery, it is the
+fastest, lightweightest, slickiest, damn good framework!! See what the users
+are talking about it:
 
 > Because life is too short for waiting jQuery to load...
 >
@@ -13,22 +15,29 @@ Behold the newest JavaScript framework!! Greatly inspired by jQuery, it is the f
 >
 > — Anonymous user 2
 
-> But it ain't about how hard you hit. It's about how hard you can get hit and keep moving forward [...] That's how `this framework` is done!
+> But it ain't about how hard you hit. It's about how hard you can get hit and
+> keep moving forward [...] That's how `this framework` is done!
 >
 > — Rocky Balboa (mostly)
 
 Getting Started
 ---------------
-If you wish, you can clone or download it to your project. But if I were you, I'd just copy and paste the code at the start of your `script.js` file. Yeah, I know you named it like that. Everyone does.
+If you wish, you can clone or download it to your project. But if I were you,
+I'd just copy and paste the code at the start of your `script.js` file. Yeah,
+I know you named it like that. Everyone does.
 
 Contrbiuting
 -----------
-Just try to be as succinct as possible, don't bother it being readable, that's overestimated! xD. OOOORR you can just correct a typo, like that one at the section title. That's a classic.
+Just try to be as succinct as possible, don't bother it being readable, that's
+overestimated! xD. OOOORR you can just correct a typo, like that one at the
+section title. That's a classic. And **remember** to keep each
+feature in one different line, Just because.
 
 Support
 -------
 
-For technical issues: @v.hoyer on Instagram (you never know), or e-mail me at vhoyer@live.com
+For technical issues: @v.hoyer on Instagram (you never know), or e-mail me at
+vhoyer@live.com
 
 For personal issues: Take a deep breath, it's going to be okay.
 
