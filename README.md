@@ -1,7 +1,7 @@
 jQ
 ==
 
-[!logo](logo.png)
+![logo](logo.png)
 
 Behold the newest JavaScript framework!! Greatly inspired by jQuery, it is the fastest, lightweightest, slickiest, damn good framework!! See what the users are talking about it:
 
