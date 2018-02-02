@@ -18,6 +18,10 @@ Behold the newest JavaScript framework!! Greatly inspired by jQuery, it is the f
 > — Rocky Balboa (mostly)
 
 
+Contrbiuting
+-----------
+Just try to be as succinct as possible, don't bother it being readable, that's overestimated! xD. OOOORR you can just correct a typo, like that one at the section title. That's a classic.
+
 Support
 -------
 
