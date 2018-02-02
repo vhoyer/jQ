@@ -17,6 +17,9 @@ Behold the newest JavaScript framework!! Greatly inspired by jQuery, it is the f
 >
 > — Rocky Balboa (mostly)
 
+Getting Started
+---------------
+If you wish, you can clone or download it to your project. But if I were you, I'd just copy and paste the code at the start of your `script.js` file. Yeah, I know you named it like that. Everyone does.
 
 Contrbiuting
 -----------
