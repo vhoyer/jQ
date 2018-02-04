@@ -26,6 +26,14 @@ If you wish, you can clone or download it to your project. But if I were you,
 I'd just copy and paste the code at the start of your `script.js` file. Yeah,
 I know you named it like that. Everyone does.
 
+EDIT: OOOORRR you add the newly added cdn! (because I just discovers how they
+work and this is awesome) Just copy and paste the code bellow at, well,
+anywhere you like, I personally suggest you above the `<title>` tag.
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/vhoyer/jQ@1.0.0/jQ.js"></script>
+```
+
 Contrbiuting
 -----------
 Just try to be as succinct as possible, don't bother it being readable, that's
