@@ -38,8 +38,8 @@ Contrbiuting
 -----------
 Just try to be as succinct as possible, don't bother it being readable, that's
 overestimated! xD. OOOORR you can just correct a typo, like that one at the
-section title. That's a classic. And **remember** to keep each
-feature in one different line, Just because.
+section title. That's a classic. And **remember** to keep each feature in one
+different line, just because. Actually, for aesthetics proposes.
 
 Support
 -------
