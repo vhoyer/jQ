@@ -44,7 +44,7 @@ different line, just because. Actually, for aesthetics proposes.
 Support
 -------
 
-For technical issues: @v.hoyer on Instagram (you never know), or e-mail me at
+For technical issues: @vhoyer on Instagram (you never know), or e-mail me at
 vhoyer@live.com
 
 For personal issues: Take a deep breath, it's going to be okay.
